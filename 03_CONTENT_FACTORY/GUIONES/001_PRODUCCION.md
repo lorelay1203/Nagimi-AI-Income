@@ -30,7 +30,7 @@ Cada imagen es de tamaño vertical (formato Story), listo para video corto. Abre
 | Forma 3 | "FORMA 3: Todo conectado" | [Ver](https://www.canva.com/d/Df25_OTd4kfGj--) | [Editar](https://www.canva.com/d/uknRl9u0u5bJO9_) |
 | Cierre/CTA | "¿Quieres el paso a paso? Coméntalo" | [Ver](https://www.canva.com/d/m5JMTtrANgEBCGj) | [Editar](https://www.canva.com/d/N2txFByJXTEwTgm) |
 
-**Nota:** estas 5 imágenes (2026-08-09, segunda versión) ya se hicieron con el kit de marca correcto "NAGIMI AI INCOME" — las primeras se habían hecho por error con un kit sin nombre que tenías antes. Revísalas tú para confirmar que los colores ahora sí coinciden con tu marca.
+**Nota:** estas 5 imágenes (2026-08-09, segunda versión) se hicieron con el kit de marca correcto "NAGIMI AI INCOME". Lorelay las revisó el 2026-08-09 y confirmó que quedaron bien — imágenes aprobadas, listas para descargar y usar.
 
 Para bajarlas a tu computadora: abre cada link de "Editar" en Canva y usa el botón de Descargar (arriba a la derecha) para guardarlas como imagen.
 
