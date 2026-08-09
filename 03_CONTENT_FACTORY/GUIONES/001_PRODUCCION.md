@@ -5,18 +5,18 @@ Complementa a `001_agentes_ia_pequenos_negocios.md`. Todo lo necesario para pasa
 ## 1. Texto limpio para voz IA (copiar y pegar tal cual)
 
 ```
-Un autónomo con 3 negocios estaba trabajando 20 horas al día. Hoy trabaja 18 horas menos a la semana. Esto es lo que cambió.
+Un autónomo con 3 negocios trabajaba 20 horas al día. Hoy trabaja 18 horas menos a la semana. Así lo logró.
 
-Forma 1: Atención al cliente que nunca duerme. Negocios pequeños están conectando agentes de IA a WhatsApp y su web para responder preguntas repetidas —pedidos, horarios, dudas de producto— al instante. El agente solo pasa el caso a un humano cuando es realmente complejo.
+Forma 1: un agente de IA responde en WhatsApp preguntas repetidas al instante, y solo pasa a un humano los casos complicados.
 
-Forma 2: Filtrar clientes antes de perder tiempo con ellos. En vez de revisar leads uno por uno, un agente los lee, los prioriza y solo avisa cuando hay uno que vale la pena. Menos tiempo perdido, más ventas cerradas.
+Forma 2: un agente lee y ordena tus clientes potenciales, y solo te avisa cuando hay uno que vale la pena.
 
-Forma 3: Un asistente que conecta todo el negocio. El caso real: un autónomo español con consultoría, ecommerce y formación conectó 4 agentes de IA a Gmail, WhatsApp y su CRM. Resultado: recuperó 18 horas a la semana que antes se le iban en tareas repetitivas.
+Forma 3: el caso real — conectó 4 agentes a Gmail, WhatsApp y su CRM, y así recuperó esas 18 horas a la semana.
 
-No es magia, es automatización bien conectada. Si quieres que te muestre cómo se arma un agente así, dímelo en los comentarios y hago el siguiente video paso a paso.
+No es magia, es automatización bien conectada. ¿Quieres el paso a paso? Dímelo en los comentarios.
 ```
 
-~163 palabras. A ritmo de short-form (~2.8-3 palabras/seg) da aprox. 54-58 segundos de audio — encaja en el rango de 45-55s previsto.
+~115 palabras (versión corta, 2026-08-09, para gastar menos caracteres en la herramienta de voz). A ritmo de short-form (~2.8-3 palabras/seg) da aprox. 38-41 segundos de audio.
 
 ## 2. Imágenes ya creadas en Canva (con tu kit de marca)
 
