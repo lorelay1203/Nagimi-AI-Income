@@ -24,15 +24,15 @@ Cada imagen es de tamaño vertical (formato Story), listo para video corto. Abre
 
 | Bloque | Texto en pantalla | Ver diseño | Editar diseño |
 |---|---|---|---|
-| Hook (0:00) | "18 HORAS MENOS A LA SEMANA" | [Ver](https://www.canva.com/d/qGFhuDCXZokJAtG) | [Editar](https://www.canva.com/d/RrPvA-9Y9X_FV7k) |
-| Forma 1 | "FORMA 1: Atención 24/7" | [Ver](https://www.canva.com/d/-P-6Nho7h-9P267) | [Editar](https://www.canva.com/d/v-aww9M4pyRWiu8) |
-| Forma 2 | "FORMA 2: Leads filtrados" | [Ver](https://www.canva.com/d/QwbrsObWu_BEajt) | [Editar](https://www.canva.com/d/oSyAzXWcn8Mrhn5) |
-| Forma 3 | "FORMA 3: Todo conectado" | [Ver](https://www.canva.com/d/S6VNZLPWhPy6lsD) | [Editar](https://www.canva.com/d/SKdHNQtqkWzWk0x) |
-| Cierre/CTA | "¿Quieres el paso a paso? Coméntalo" | [Ver](https://www.canva.com/d/uSdmzYjEHeXRqi1) | [Editar](https://www.canva.com/d/bW60PR6z7_hj6Bd) |
+| Hook (0:00) | "18 HORAS MENOS A LA SEMANA" | [Ver](https://www.canva.com/d/BStMjZeh3PXzsQL) | [Editar](https://www.canva.com/d/gRj9q_sF78-2mqm) |
+| Forma 1 | "FORMA 1: Atención 24/7" | [Ver](https://www.canva.com/d/lmMaAy_LaSC7J_T) | [Editar](https://www.canva.com/d/9mMW83vwugOazN6) |
+| Forma 2 | "FORMA 2: Leads filtrados" | [Ver](https://www.canva.com/d/3suwI3o2JIlb7cl) | [Editar](https://www.canva.com/d/9-cP9-arL0Q5DA9) |
+| Forma 3 | "FORMA 3: Todo conectado" | [Ver](https://www.canva.com/d/Df25_OTd4kfGj--) | [Editar](https://www.canva.com/d/uknRl9u0u5bJO9_) |
+| Cierre/CTA | "¿Quieres el paso a paso? Coméntalo" | [Ver](https://www.canva.com/d/m5JMTtrANgEBCGj) | [Editar](https://www.canva.com/d/N2txFByJXTEwTgm) |
+
+**Nota:** estas 5 imágenes (2026-08-09, segunda versión) ya se hicieron con el kit de marca correcto "NAGIMI AI INCOME" — las primeras se habían hecho por error con un kit sin nombre que tenías antes. Revísalas tú para confirmar que los colores ahora sí coinciden con tu marca.
 
 Para bajarlas a tu computadora: abre cada link de "Editar" en Canva y usa el botón de Descargar (arriba a la derecha) para guardarlas como imagen.
-
-**Pendiente antes de descargar la imagen de "Forma 2":** entra al link de editar y borra dos líneas de texto que quedaron de la plantilla y no dicen nada tuyo: la fecha "9 de agosto, 2026" y el texto "Regístrate en www.reallygreatsite.com".
 
 Cortes cada 2-3 segundos, subtítulos grandes centrados en todo momento (según `03_CONTENT_FACTORY/README.md`).
 
