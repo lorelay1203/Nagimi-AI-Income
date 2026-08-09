@@ -25,12 +25,14 @@ Cada imagen es de tamaño vertical (formato Story), listo para video corto. Abre
 | Bloque | Texto en pantalla | Ver diseño | Editar diseño |
 |---|---|---|---|
 | Hook (0:00) | "18 HORAS MENOS A LA SEMANA" | [Ver](https://www.canva.com/d/qGFhuDCXZokJAtG) | [Editar](https://www.canva.com/d/RrPvA-9Y9X_FV7k) |
-| Forma 1 | "FORMA 1: Atención 24/7" | [Ver](https://www.canva.com/d/HsNFnqKaPu82CNL) | [Editar](https://www.canva.com/d/YdxtCqneLhrdaoP) |
-| Forma 2 | "FORMA 2: Leads filtrados" | [Ver](https://www.canva.com/d/m-bTTjuuJKZNVHf) | [Editar](https://www.canva.com/d/X8zycO9huXpSvYI) |
+| Forma 1 | "FORMA 1: Atención 24/7" | [Ver](https://www.canva.com/d/-P-6Nho7h-9P267) | [Editar](https://www.canva.com/d/v-aww9M4pyRWiu8) |
+| Forma 2 | "FORMA 2: Leads filtrados" | [Ver](https://www.canva.com/d/QwbrsObWu_BEajt) | [Editar](https://www.canva.com/d/oSyAzXWcn8Mrhn5) |
 | Forma 3 | "FORMA 3: Todo conectado" | [Ver](https://www.canva.com/d/S6VNZLPWhPy6lsD) | [Editar](https://www.canva.com/d/SKdHNQtqkWzWk0x) |
 | Cierre/CTA | "¿Quieres el paso a paso? Coméntalo" | [Ver](https://www.canva.com/d/uSdmzYjEHeXRqi1) | [Editar](https://www.canva.com/d/bW60PR6z7_hj6Bd) |
 
 Para bajarlas a tu computadora: abre cada link de "Editar" en Canva y usa el botón de Descargar (arriba a la derecha) para guardarlas como imagen.
+
+**Pendiente antes de descargar la imagen de "Forma 2":** entra al link de editar y borra dos líneas de texto que quedaron de la plantilla y no dicen nada tuyo: la fecha "9 de agosto, 2026" y el texto "Regístrate en www.reallygreatsite.com".
 
 Cortes cada 2-3 segundos, subtítulos grandes centrados en todo momento (según `03_CONTENT_FACTORY/README.md`).
 
