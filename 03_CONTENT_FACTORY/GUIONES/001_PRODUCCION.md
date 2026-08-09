@@ -18,22 +18,26 @@ No es magia, es automatización bien conectada. Si quieres que te muestre cómo 
 
 ~163 palabras. A ritmo de short-form (~2.8-3 palabras/seg) da aprox. 54-58 segundos de audio — encaja en el rango de 45-55s previsto.
 
-## 2. Guía de visuales por bloque (para B-roll/edición)
+## 2. Imágenes ya creadas en Canva (con tu kit de marca)
 
-| Bloque | Texto (resumen) | Visual sugerido | Texto en pantalla |
+Cada imagen es de tamaño vertical (formato Story), listo para video corto. Abre el link "Editar" para ajustar texto o colores si quieres, y desde ahí puedes descargarla.
+
+| Bloque | Texto en pantalla | Ver diseño | Editar diseño |
 |---|---|---|---|
-| Hook (0:00) | Autónomo trabajaba 20h/día, hoy 18h menos/semana | Contraste antes/después, cara de cansancio → cara relajada, o reloj/calendario | "18 HORAS MENOS A LA SEMANA" (grande) |
-| Forma 1 | Atención al cliente 24/7 vía WhatsApp/web | Mockup de chat de WhatsApp respondiendo solo | "FORMA 1: Atención 24/7" |
-| Forma 2 | Filtrar leads automáticamente | Mockup de lista de leads con prioridad/semáforo | "FORMA 2: Leads filtrados" |
-| Forma 3 | Caso real: 4 agentes conectados a Gmail/WhatsApp/CRM | Diagrama simple de conexión (Gmail + WhatsApp + CRM → 1 asistente) | "FORMA 3: Todo conectado" |
-| Cierre/CTA | Invitar a comentar | Texto directo a cámara o pantalla con pregunta | "¿Quieres el paso a paso? Coméntalo" |
+| Hook (0:00) | "18 HORAS MENOS A LA SEMANA" | [Ver](https://www.canva.com/d/qGFhuDCXZokJAtG) | [Editar](https://www.canva.com/d/RrPvA-9Y9X_FV7k) |
+| Forma 1 | "FORMA 1: Atención 24/7" | [Ver](https://www.canva.com/d/HsNFnqKaPu82CNL) | [Editar](https://www.canva.com/d/YdxtCqneLhrdaoP) |
+| Forma 2 | "FORMA 2: Leads filtrados" | [Ver](https://www.canva.com/d/m-bTTjuuJKZNVHf) | [Editar](https://www.canva.com/d/X8zycO9huXpSvYI) |
+| Forma 3 | "FORMA 3: Todo conectado" | [Ver](https://www.canva.com/d/S6VNZLPWhPy6lsD) | [Editar](https://www.canva.com/d/SKdHNQtqkWzWk0x) |
+| Cierre/CTA | "¿Quieres el paso a paso? Coméntalo" | [Ver](https://www.canva.com/d/uSdmzYjEHeXRqi1) | [Editar](https://www.canva.com/d/bW60PR6z7_hj6Bd) |
+
+Para bajarlas a tu computadora: abre cada link de "Editar" en Canva y usa el botón de Descargar (arriba a la derecha) para guardarlas como imagen.
 
 Cortes cada 2-3 segundos, subtítulos grandes centrados en todo momento (según `03_CONTENT_FACTORY/README.md`).
 
 ## 3. Checklist de producción (herramientas — tú ejecutas estos pasos)
 
 - [ ] **Voz IA en español:** generar audio con el texto de la sección 1 (ej. ElevenLabs u otra herramienta de voz IA en español neutro).
-- [ ] **Visuales:** crear/descargar los 5 elementos de la tabla anterior (Canva sirve para esto — está disponible como conector pero requiere que lo autorices primero en tu cuenta de claude.ai para que yo pueda generarlos directamente).
+- [x] **Visuales:** las 5 imágenes ya están creadas en tu Canva (ver tabla de la sección 2). Solo falta descargarlas.
 - [ ] **Edición + subtítulos automáticos:** CapCut, Premiere o similar — importar audio + visuales, generar subtítulos automáticos y ajustar timing.
 - [ ] **Revisión final:** verificar que el hook quede en los primeros 3 segundos sin cortes muertos.
 - [ ] **Publicar** en YouTube Shorts, TikTok e Instagram Reels el mismo día.
