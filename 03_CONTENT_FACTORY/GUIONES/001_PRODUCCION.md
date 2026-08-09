@@ -38,7 +38,7 @@ Cortes cada 2-3 segundos, subtítulos grandes centrados en todo momento (según 
 
 ## 3. Checklist de producción (herramientas — tú ejecutas estos pasos)
 
-- [ ] **Voz IA en español:** generar audio con el texto de la sección 1 (ej. ElevenLabs u otra herramienta de voz IA en español neutro).
+- [x] **Voz IA en español:** ya generada. Archivo: `001_audio.mp3` (en esta misma carpeta).
 - [x] **Visuales:** las 5 imágenes ya están creadas en tu Canva (ver tabla de la sección 2). Solo falta descargarlas.
 - [ ] **Edición + subtítulos automáticos:** CapCut, Premiere o similar — importar audio + visuales, generar subtítulos automáticos y ajustar timing.
 - [ ] **Revisión final:** verificar que el hook quede en los primeros 3 segundos sin cortes muertos.
