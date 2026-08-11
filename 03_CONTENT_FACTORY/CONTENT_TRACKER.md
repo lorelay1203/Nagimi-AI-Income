@@ -4,6 +4,10 @@ Backlog y seguimiento de piezas de contenido. Una fila por pieza.
 
 Estados: `IDEA` → `INVESTIGADO` → `GUION` → `GRABADO` → `EDITADO` → `PUBLICADO`
 
+> **REGLA IMPORTANTE (2026-08-09):** todo guion debe dar un video de **60 segundos o más**.
+> TikTok solo paga por videos de 60s+. Los guiones 001, 002 y 003 están escritos para
+> ~40-55s y hay que alargarlos antes de publicarlos. Ver `ESTRATEGIA.md`.
+
 ## Distribución objetivo (según `00_MASTER/MASTER_CONTEXT.md`)
 
 | Categoría | % objetivo | Ideas en backlog |
